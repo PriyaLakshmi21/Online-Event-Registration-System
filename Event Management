@@ -1,0 +1,10 @@
+This module focuses on managing different events available in the system.
+
+Functions:
+- Create new events (Admin)
+- View all events
+- Update event details
+- Delete or close events
+
+Purpose:
+This helps the admin organize and update event information for users to browse and register.
