@@ -1,0 +1,10 @@
+This module represents the registration and payment workflow of the system.
+
+Functions:
+- Select an event
+- Book a seat
+- Make payment (conceptual)
+- Receive confirmation
+
+Purpose:
+This module completes the main functionality of the Online Event Registration System.
