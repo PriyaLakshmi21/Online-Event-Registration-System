@@ -1,0 +1,10 @@
+This module represents the user-side registration process for the Online Event Registration System.
+
+Functions:
+- New user sign up
+- Login and logout
+- User profile creation
+- Secure authentication process
+
+Purpose:
+This module allows users to create an account and access the system in order to view and register for events.
